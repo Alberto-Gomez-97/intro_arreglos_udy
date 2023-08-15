@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\bin\Debug\net6.0\Intro_arreglos_udy.exe
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\bin\Debug\net6.0\Intro_arreglos_udy.deps.json
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\bin\Debug\net6.0\Intro_arreglos_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\bin\Debug\net6.0\Intro_arreglos_udy.dll
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\bin\Debug\net6.0\Intro_arreglos_udy.pdb
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.dll
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\refint\Intro_arreglos_udy.dll
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.pdb
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\Intro_arreglos_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\Intro_arreglos_udy\Intro_arreglos_udy\obj\Debug\net6.0\ref\Intro_arreglos_udy.dll
